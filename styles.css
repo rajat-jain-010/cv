@@ -1,0 +1,32 @@
+.fun:hover
+{
+    color: darkgoldenrod;
+
+}
+h1{
+    color: darkgoldenrod;
+}
+
+.skill
+{
+border:5px solid black;
+background-color: #2F3A8F;
+
+}
+.editor{
+
+border:5px solid black;
+background-color: darkgray;
+
+
+}
+.a000
+{
+    color: rgb(179, 17, 17); 
+}
+img
+{
+    border: double 10px;
+    border-radius: 100%;
+    border-color: darkgoldenrod;
+}
